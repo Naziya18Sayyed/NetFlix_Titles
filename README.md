@@ -2,7 +2,13 @@
 Data Analysis on Netflix data
 
 ![Total Movies   TV Shows by Year](https://github.com/Naziya18Sayyed/NetFlix_Titles/assets/169019056/399f5906-5f95-4321-b686-5cbbc82f3f17)
+
+Area Chart of Total Movies & TV Shows by Year:
+This area chart shows the growth of Netflix's content library over time, from 2008 to 2019. The x-axis represents the years, while the y-axis represents the cumulative count of titles added each year. It uses two color gradients to distinguish between movies (darker shade) and TV shows (lighter shade).
+
 ![Total Movies   TV Shows by Country](https://github.com/Naziya18Sayyed/NetFlix_Titles/assets/169019056/48932003-2478-4c85-ba04-67f74cffa3c5)
+
+
 ![Top 10 Genre](https://github.com/Naziya18Sayyed/NetFlix_Titles/assets/169019056/82f2c27d-cfab-47d2-854e-8bdd21e4c82c)
 ![Ratings](https://github.com/Naziya18Sayyed/NetFlix_Titles/assets/169019056/8917abca-5835-4754-b742-3b5a926b5bc6)
 ![Movies   TV shows Distribution](https://github.com/Naziya18Sayyed/NetFlix_Titles/assets/169019056/44d4d0ca-43d0-4718-b080-98689987f614)
